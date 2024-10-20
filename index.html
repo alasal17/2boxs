@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oppgave 1</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .box {
+            height: 100px;
+            background-color: white;
+            margin: 10px auto;
+            transition: background-color 0.3s ease, width 0.3s ease;
+        }
+
+        .box1 {
+            width: 100px;
+        }
+
+        .box2 {
+            width: 150px;
+        }
+
+        button {
+            margin: 5px;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        @media (max-width: 600px) {
+            button {
+                width: 100%;
+                margin-top: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button onclick="adjustBox(1, 'longer')">Gjør boks 1 lengre</button>
+        <button onclick="adjustBox(1, 'shorter')">Gjør boks 1 kortere</button>
+        <button onclick="adjustBox(2, 'longer')">Gjør boks 2 lengre</button>
+        <button onclick="adjustBox(2, 'shorter')">Gjør boks 2 kortere</button>
+
+        <p>Antall ganger klikket: <span id="clickCount">0</span></p>
+
+        <div id="box1" class="box box1">Boks 1: 100px</div>
+        <div id="box2" class="box box2">Boks 2: 150px</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
