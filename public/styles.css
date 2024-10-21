@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.box {
+    height: 100px;
+    background-color: white;
+    margin: 10px auto;
+    transition: background-color 0.3s ease, width 0.3s ease;
+}
+
+.box1 {
+    width: 100px;
+}
+
+.box2 {
+    width: 150px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+@media (max-width: 600px) {
+    button {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
