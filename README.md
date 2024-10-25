@@ -3,9 +3,10 @@
 </p>
 
 
-
 <p align="center">
-  <iframe width="560" height="315" src="https://www.2boxs-images.anez.no/innlevering1.mp4?autoplay=1&loop=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <a href="https://www.2boxs-images.anez.no/innlevering1.mp4">
+    <img src="[https://www.2boxs-images.anez.no/first-program-screenshot.png](https://www.2boxs-images.anez.no/innlevering1.mp4)" alt="Klikk her for å se videoen" />
+  </a>
 </p>
 
 ## Oppgave 1: Juster størrelsen på bokser med knapper
