@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <video width="600" controls>
-    <source src="[https://www.2boxs-videos.anez.no/first-program-demo.mp4](https://www.2boxs-images.anez.no/innlevering1.mp4)" type="video/mp4">
+    <source src="https://www.2boxs-videos.anez.no/first-program-demo.mp4" type="video/mp4">
     Din nettleser støtter dessverre ikke videoavspilling.
   </video>
 </p>
