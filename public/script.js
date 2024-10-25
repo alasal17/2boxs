@@ -1,5 +1,10 @@
 let clickCount = 0;
 
+document.getElementById('longerBox1').addEventListener('click', () => adjustBox(1, 'longer'));
+document.getElementById('shorterBox1').addEventListener('click', () => adjustBox(1, 'shorter'));
+document.getElementById('longerBox2').addEventListener('click', () => adjustBox(2, 'longer'));
+document.getElementById('shorterBox2').addEventListener('click', () => adjustBox(2, 'shorter'));
+
 function adjustBox(boxNumber, action) {
     const box = document.getElementById(`box${boxNumber}`);
     let currentWidth = parseInt(box.style.width) || (boxNumber === 1 ? 100 : 150);

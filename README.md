@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://www.2boxs-images.anez.no/first-program-screenshot.png" alt="Screenshot av programmet" />
+  <video width="600" autoplay loop muted playsinline>
+    <source src="https://www.2boxs-videos.anez.no/innlevering1-6500-.mp4" type="video/mp4">
+    Din nettleser støtter dessverre ikke videoavspilling.
+  </video>
 </p>
 
 ## Oppgave 1: Juster størrelsen på bokser med knapper
@@ -52,4 +55,3 @@ For å se siden lokalt:
 2. Åpne `index.html` i en nettleser.
 
 Nettsiden er også tilgjengelig på: [2boxs.anez.no](http://2boxs.anez.no).
-
