@@ -7,11 +7,9 @@
     <img src="https://www.2boxs-images.anez.no/first-program-screenshot.png" alt="Klikk her for å se videoen" />
   </a>
 </p>
+
 <p align="center">
-  <video width="600" controls>
-    <source src="https://www.2boxs-videos.anez.no/first-program-demo.mp4" type="video/mp4">
-    Din nettleser støtter dessverre ikke videoavspilling.
-  </video>
+  <iframe width="560" height="315" src="https://www.2boxs-images.anez.no/innlevering1.mp4?autoplay=1&loop=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 ## Oppgave 1: Juster størrelsen på bokser med knapper
 
