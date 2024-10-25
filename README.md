@@ -4,10 +4,9 @@
 
 
 <p align="center">
-  <a href="https://www.2boxs-images.anez.no/innlevering1.mp4">
-    <img src="https://www.2boxs-images.anez.no/innlevering1.mp4" alt="Klikk her for å se videoen" />
-  </a>
+  <img src="https://www.2boxs-images.anez.no/first-program-screenshot.png" alt="Screenshot av programmet" />
 </p>
+
 
 ## Oppgave 1: Juster størrelsen på bokser med knapper
 
