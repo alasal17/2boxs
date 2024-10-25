@@ -2,15 +2,12 @@
   <strong><h1>2-Boxs</h1></strong>
 </p>
 
-<p align="center">
-  <a href="https://www.2boxs-images.anez.no/innlevering1.mp4">
-    <img src="https://www.2boxs-images.anez.no/first-program-screenshot.png" alt="Klikk her for å se videoen" />
-  </a>
-</p>
+
 
 <p align="center">
   <iframe width="560" height="315" src="https://www.2boxs-images.anez.no/innlevering1.mp4?autoplay=1&loop=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
+
 ## Oppgave 1: Juster størrelsen på bokser med knapper
 
 Dette prosjektet er laget som en del av en obligatorisk innsendingsoppgave. Oppgaven går ut på å lage en enkel nettside hvor brukeren kan justere størrelsen på to bokser ved hjelp av knapper.
