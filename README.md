@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <video width="600" autoplay loop muted playsinline>
-    <source src="https://www.2boxs-videos.anez.no/innlevering1.mp4" type="video/mp4">
-    Din nettleser støtter dessverre ikke videoavspilling.
-  </video>
+  <a href="https://www.2boxs-images.anez.no/innlevering1.mp4">
+    <img src="https://www.2boxs-images.anez.no/first-program-screenshot.png" alt="Klikk her for å se videoen" />
+  </a>
 </p>
 
 ## Oppgave 1: Juster størrelsen på bokser med knapper
